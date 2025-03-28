@@ -24,7 +24,7 @@ Built with the **MERN stack** (MongoDB, Express.js, React, and Node.js) and cont
 - **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ## 🛠 Other Tools
-- **Multer:** Handles file uploads for certificate documents.
+
 - **JWT (JSON Web Tokens):** Ensures secure authentication and session management.
 
 ## 🚀 Getting Started
